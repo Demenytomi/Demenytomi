@@ -1,4 +1,5 @@
 ```assembly
+<div align = "center"><img src="https://cdn.discordapp.com/attachments/871054615737671730/873094665124065290/eternar_256.png"></div>
 section	.text
 	global _start
 _start:
