@@ -19,6 +19,11 @@ msg	db	'Hi there 👋', 0xa
 len	equ	$ - msg
 ```
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Demenytomi&show_icons=true&theme=radical)
+<!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Demenytomi&show_icons=true&theme=radical) --->
+<!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demenytomi&theme=2077) --->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demenytomi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demenytomi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demenytomi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Demenytomi&theme=2077&utcOffset=8)
 
-![Profile views](https://gpvc.arturio.dev/Demenytomi)
+![](https://komarev.com/ghpvc/?username=Demenytomi)
