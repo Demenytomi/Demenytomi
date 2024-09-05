@@ -1,4 +1,4 @@
-<div align = "center"><img src="https://cdn.discordapp.com/attachments/871054615737671730/873094665124065290/eternar_256.png"></div>
+<div align = "center"><img src="https://cdn.discordapp.com/attachments/871054615737671730/994049548911648830/web.png?ex=66db0109&is=66d9af89&hm=982a82d2e2c9b60c8c7dc2373b6bf674414bcb387906c9d5560f29d3fc12b8af"></div>
 
 
 ```assembly
